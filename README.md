@@ -48,3 +48,6 @@ cd BallSimulator
 cmake -B build && cmake --build build  
 ./build/BallSimulator  
 ```  
+#### **How it looks:**
+
+![](image.png)
